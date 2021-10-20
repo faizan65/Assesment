@@ -43,7 +43,7 @@ body{
 }
 
 #banner .hero-image {
-  background-image:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('/assets/img/banner.png');
+  background-image:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('../assets/img/banner.png');
   height: 92vh;
   background-position: center;
   background-repeat: no-repeat;
